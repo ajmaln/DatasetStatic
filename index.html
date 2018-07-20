@@ -242,7 +242,7 @@
         appendTo("download-area", `<button type="button" class="btn btn-neutral home-button">Home</button><br><br>`);
     }
 
-    $.get('/files.json', (resp) => {
+    $.get('files.json', (resp) => {
         console.log(resp);
         categories = resp.children;
         currentCat.push(categories);
