@@ -1,0 +1,193 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "xyz",
+                    "path": "download/category2/xyz",
+                    "type": "file"
+                },
+                {
+                    "name": "123",
+                    "path": "download/category2/123",
+                    "type": "file"
+                },
+                {
+                    "children": [],
+                    "name": "sub_cat3",
+                    "path": "download/category2/sub_cat3",
+                    "type": "directory"
+                },
+                {
+                    "name": "abc",
+                    "path": "download/category2/abc",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "xyz",
+                            "path": "download/category2/sub_cat1/xyz",
+                            "type": "file"
+                        },
+                        {
+                            "name": "123",
+                            "path": "download/category2/sub_cat1/123",
+                            "type": "file"
+                        }
+                    ],
+                    "name": "sub_cat1",
+                    "path": "download/category2/sub_cat1",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "123",
+                            "path": "download/category2/sub_cat2/123",
+                            "type": "file"
+                        },
+                        {
+                            "name": "abc",
+                            "path": "download/category2/sub_cat2/abc",
+                            "type": "file"
+                        }
+                    ],
+                    "name": "sub_cat2",
+                    "path": "download/category2/sub_cat2",
+                    "type": "directory"
+                }
+            ],
+            "name": "category2",
+            "path": "download/category2",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "name": "xyz",
+                    "path": "download/category1/xyz",
+                    "type": "file"
+                },
+                {
+                    "name": "123",
+                    "path": "download/category1/123",
+                    "type": "file"
+                },
+                {
+                    "children": [],
+                    "name": "sub_cat3",
+                    "path": "download/category1/sub_cat3",
+                    "type": "directory"
+                },
+                {
+                    "name": "abc",
+                    "path": "download/category1/abc",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "xyz",
+                            "path": "download/category1/sub_cat1/xyz",
+                            "type": "file"
+                        },
+                        {
+                            "name": "123",
+                            "path": "download/category1/sub_cat1/123",
+                            "type": "file"
+                        }
+                    ],
+                    "name": "sub_cat1",
+                    "path": "download/category1/sub_cat1",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "123",
+                            "path": "download/category1/sub_cat2/123",
+                            "type": "file"
+                        },
+                        {
+                            "name": "abc",
+                            "path": "download/category1/sub_cat2/abc",
+                            "type": "file"
+                        }
+                    ],
+                    "name": "sub_cat2",
+                    "path": "download/category1/sub_cat2",
+                    "type": "directory"
+                }
+            ],
+            "name": "category1",
+            "path": "download/category1",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "name": "xyz",
+                    "path": "download/category3/xyz",
+                    "type": "file"
+                },
+                {
+                    "name": "123",
+                    "path": "download/category3/123",
+                    "type": "file"
+                },
+                {
+                    "children": [],
+                    "name": "sub_cat3",
+                    "path": "download/category3/sub_cat3",
+                    "type": "directory"
+                },
+                {
+                    "name": "abc",
+                    "path": "download/category3/abc",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "xyz",
+                            "path": "download/category3/sub_cat1/xyz",
+                            "type": "file"
+                        },
+                        {
+                            "name": "123",
+                            "path": "download/category3/sub_cat1/123",
+                            "type": "file"
+                        }
+                    ],
+                    "name": "sub_cat1",
+                    "path": "download/category3/sub_cat1",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "123",
+                            "path": "download/category3/sub_cat2/123",
+                            "type": "file"
+                        },
+                        {
+                            "name": "abc",
+                            "path": "download/category3/sub_cat2/abc",
+                            "type": "file"
+                        }
+                    ],
+                    "name": "sub_cat2",
+                    "path": "download/category3/sub_cat2",
+                    "type": "directory"
+                }
+            ],
+            "name": "category3",
+            "path": "download/category3",
+            "type": "directory"
+        }
+    ],
+    "name": "download",
+    "path": "download",
+    "type": "directory"
+}
